@@ -1,0 +1,20 @@
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+dump
+stories
+stories_old
+stories_py
+
+config.ini
+latest-stamps.ini
+credentials.json
+feed_json.json
+telegram-bot.py
+session.session
